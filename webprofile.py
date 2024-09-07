@@ -11,9 +11,9 @@ st.subheader("I'm Yossaphat Grachangpho (Kyu)")
 st.write("""
 - 2024 - Esport What? School Tour 2024 (8th Place)
 - 2024 - ศิลปะหัตถกรรมครั้งที่ 71 (การสร้างเกมสร้างสรรค์จากคอมพิวเตอร์)
-- 2024 - KMITL Future Innovator 2024 (Nano Technology National Level 2024)
+- 2024 - KMITL Future Innovator 2024 (Nano Technology National Level 2024), KMITL
 - 2024 - K-Engineering World Tour and Workshop 2024, KMITL
-- 2024 - First Aid & CPR Course at Debsirin School
+- 2024 - First Aid & CPR Course, Debsirin School
 """)
 
 # Current Activities
