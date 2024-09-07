@@ -12,7 +12,8 @@ st.write("""
 - 2024 - Esport What? School Tour 2024 (8th Place)
 - 2024 - ศิลปะหัตถกรรมครั้งที่ 71 (การสร้างเกมสร้างสรรค์จากคอมพิวเตอร์)
 - 2024 - KMITL Future Innovator 2024 (Nano Technology National Level 2024)
-- 2024 - CPR Course at Debsirin School
+- 2024 - World Of Engineer, KMITL
+- 2024 - First Aid & CPR Course at Debsirin School
 """)
 
 # Current Activities
